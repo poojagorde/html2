@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+	
+}
+
+
+body{
+	background-image: url(https://cdn.buttercms.com/pGWNmQiTjmYtguNhC4Rw);
+	background-repeat: no-repeat;
+	background-size: contain;
+
+}
+
+
+.menu{
+	width: 15%;
+	height: 50%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 10px;
+	margin-left: 40%;
+	margin-top: 35%;
+}
+
+.menu a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px 20px;
+	
+}
+
+
+.LOGO img{
+
+	width: 20%;
+	height: 10%;
+	position: absolute;
+	left: 5%;
+	top: 5%;
+}
+
+
+h1{
+	margin-left: 30px;
+	margin-bottom: 10px;
+	font-size: 50px;
+	color: grey;
+}
+
+
+p{
+	margin-left: 30px;
+}
+
+
+#cont{
+	margin-left: 30px;
+	margin-bottom: 10px;
+	font-size: 50px;
+	color: green;
+}
+
+ul{
+	margin-left: 50px;
+	margin-bottom: 10px;
+}
+
+#adress{
+	margin-left: 70px;
+}
